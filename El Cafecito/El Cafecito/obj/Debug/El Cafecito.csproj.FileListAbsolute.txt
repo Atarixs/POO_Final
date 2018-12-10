@@ -1,0 +1,60 @@
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\bin\Debug\El Cafecito.exe.config
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\bin\Debug\El Cafecito.exe
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\bin\Debug\El Cafecito.pdb
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csprojAssemblyReference.cache
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Login.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Properties.Resources.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.GenerateResource.cache
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.CoreCompileInputs.cache
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.exe
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.pdb
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.CopyComplete
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Administradorfrm.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\Visual studio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Ventas_El_Cafecito.resources
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\bin\Debug\El Cafecito.exe.config
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\bin\Debug\El Cafecito.exe
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\bin\Debug\El Cafecito.pdb
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\bin\Debug\System.Data.SQLite.dll
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csprojResolveAssemblyReference.cache
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Administradorfrm.resources
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Login.resources
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Properties.Resources.resources
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Ventas_El_Cafecito.resources
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.GenerateResource.Cache
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.CoreCompileInputs.cache
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El Cafecito.exe
+C:\Users\dogfi\OneDrive\Imágenes\El Cafecito\El Cafecito\obj\Debug\El Cafecito.pdb
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\bin\Debug\El Cafecito.exe.config
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\bin\Debug\El Cafecito.exe
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\bin\Debug\El Cafecito.pdb
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csprojAssemblyReference.cache
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Administradorfrm.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Login.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Productos.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Properties.Resources.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Ventas_El_Cafecito.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Ventas_por_Producto.resources
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.GenerateResource.cache
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.CoreCompileInputs.cache
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.CopyComplete
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El Cafecito.exe
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El Cafecito.pdb
+C:\Users\Vibiz\OneDrive\Documentos\IME\4 Semestre\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Ventas_por_fecha.resources
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\bin\Debug\El Cafecito.exe.config
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\bin\Debug\El Cafecito.exe
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\bin\Debug\El Cafecito.pdb
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\bin\Debug\System.Data.SQLite.dll
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csprojResolveAssemblyReference.cache
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Administradorfrm.resources
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Login.resources
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Productos.resources
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Properties.Resources.resources
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Ventas_El_Cafecito.resources
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Ventas_por_fecha.resources
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El_Cafecito.Ventas_por_Producto.resources
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.GenerateResource.Cache
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.csproj.CoreCompileInputs.cache
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.exe
+C:\Users\dogfi\OneDrive\Escritorio\El Cafecito\El Cafecito\obj\Debug\El Cafecito.pdb
